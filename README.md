@@ -18,7 +18,6 @@ check your download.
 
 ## Testing an Alpha
 
-Read **[ALPHA-TESTING.md](ALPHA-TESTING.md)** for how to start, what to try, how to get a tester
-license after the trial, and what to send when something goes wrong.
+Read **[ALPHA-TESTING.md](ALPHA-TESTING.md)** for how to start, what to try, and what to send when something goes wrong.
 
 Found a problem? Open an issue in this repository's **Issues** tab.

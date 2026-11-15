@@ -28,15 +28,9 @@ No admin rights are needed. The first start takes a few seconds.
 3. Right-click the tray icon for the menu. The gear at the top right of the editor opens Settings
    (theme, trigger behaviour, and more).
 
-## Trial and tester license
+## Trial
 
-The app runs as a free trial for 7 days. To keep testing after that, send your **device code** to the
-person who gave you this build and you will get a license key for your PC:
-
-1. Tray menu > **License**, then **Copy** next to the device code.
-2. Paste the key you receive into the same window and click **Activate**.
-
-The key works on that one PC only.
+The app runs as a free trial for 7 days. Tester licenses are not available for now.
 
 ## What to try, and what to report
 
